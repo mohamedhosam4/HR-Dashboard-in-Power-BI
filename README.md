@@ -155,7 +155,3 @@ These filters allow users to drill down and focus on specific employee segments.
 2. Open the `.pbix` file in Power BI Desktop  
 3. Connect to the provided dataset or replace it with your own  
 4. Use the interactive filters and visuals for analysis  
-
----
-
-> For any questions or contributions, feel free to open an issue or submit a pull request.
